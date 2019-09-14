@@ -6,9 +6,15 @@ class ZAGR_TEST_BUNKAI definition
 public section.
 protected section.
 private section.
+methods test.
+
 ENDCLASS.
 
 
 
 CLASS ZAGR_TEST_BUNKAI IMPLEMENTATION.
+  METHOD TEST.
+if 1 = 1. endif.
+  ENDMETHOD.
+
 ENDCLASS.
