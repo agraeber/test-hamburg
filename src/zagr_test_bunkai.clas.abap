@@ -16,6 +16,7 @@ CLASS ZAGR_TEST_BUNKAI IMPLEMENTATION.
   METHOD TEST.
 if 1 = 1. endif.
 data i type i.
+data l type i.
 
   ENDMETHOD.
 
